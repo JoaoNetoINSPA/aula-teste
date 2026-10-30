@@ -1,6 +1,9 @@
 
 
 Branching
+
+    git checkout -b <NOME_DA_BRANCH>
+
 Pull Request
 
 
